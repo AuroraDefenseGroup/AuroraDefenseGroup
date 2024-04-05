@@ -19,5 +19,6 @@ Here are some ideas to get you started:
   -  Compliance testing, product testing
   -  Microcontrollers, PSOC, analog, digital.
 
-- 📫 How to reach me: 630-851-1616 x209
+- 📫 How to reach me: 630-851-1616
+  - Engineering x209
 
