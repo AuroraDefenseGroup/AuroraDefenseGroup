@@ -2,7 +2,10 @@
 **AuroraDefenseGroup/AuroraDefenseGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on military lighting projects ...
+### Welcome To Aurora Defense Group
+- Visit our website at: [Aurora Defense Group](https://www.auroradefensegroup.com)
+- 
+- 🔭 Engineering currently working on military lighting projects ...
   -  Rear LED Composite Light
   -  3/4in LED Clearance Light
   -  LED Map Light
